@@ -10,14 +10,11 @@ import java.time.LocalDate;
 public class Program {
     public static void main(String[] args) {
 
-        Department d1 = new Department(1, "Books");
+        SellerDao sellerDao = DaoFactory.createSellerDao();
 
-        LocalDate date = LocalDate.now();
-        Seller s1 = new Seller(3, "Jv", "Jv@gmail.com", date, 3000.00, d1);
+        Seller seller = sellerDao.findById(3);
 
-        SellerDao var_sellerdao = DaoFactory.createSellerDao();
+        System.out.println(seller);
 
-        System.out.println(d1);
-        System.out.println(s1);
     }
 }
