@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43375030-8252-431a-beab-41d9608fcb54" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dao-project-jdbc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dao-project-jdbc.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/Program.java" afterDir="false" />
@@ -52,6 +53,11 @@
     "project.structure.proportion": "0.18217054",
     "project.structure.side.proportion": "0.122249365",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
   }
 }]]></component>
   <component name="RunManager">
@@ -86,7 +92,7 @@
       <workItem from="1681414440280" duration="393000" />
       <workItem from="1681912690742" duration="1278000" />
       <workItem from="1681923711001" duration="601000" />
-      <workItem from="1681927187994" duration="2242000" />
+      <workItem from="1681927187994" duration="2554000" />
     </task>
     <servers />
   </component>
