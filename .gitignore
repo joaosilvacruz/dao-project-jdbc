@@ -31,7 +31,7 @@ bin/
 
 ### DataBase ###
 db.properties
-=======
+
 # Compiled class file
 *.class
 
