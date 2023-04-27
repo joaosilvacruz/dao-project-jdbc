@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="43375030-8252-431a-beab-41d9608fcb54" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/Program.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/model/dao/impl/SellerDaoJDBC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/dao/impl/SellerDaoJDBC.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -104,7 +105,8 @@
       <workItem from="1682449478595" duration="619000" />
       <workItem from="1682541216226" duration="887000" />
       <workItem from="1682542171960" duration="949000" />
-      <workItem from="1682556151371" duration="2269000" />
+      <workItem from="1682556151371" duration="2406000" />
+      <workItem from="1682598832526" duration="1542000" />
     </task>
     <servers />
   </component>

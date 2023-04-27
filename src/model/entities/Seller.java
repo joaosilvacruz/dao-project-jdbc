@@ -4,6 +4,7 @@ import java.io.Serializable;
 import java.time.LocalDate;
 import java.util.Objects;
 
+
 public class Seller implements Serializable {
     private Integer id;
     private String name;
