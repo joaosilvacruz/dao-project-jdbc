@@ -31,5 +31,8 @@ public class Program {
         for (Seller obj: list) {
             System.out.println(obj);
         }
+        
+        System.out.println("\n=== TEST 4: Seller insert ===");
+        Seller newSeller = new Seller(null, "jv", "jv@gmail.com", new LocalDate(), 2000.00, department);
     }
 }
