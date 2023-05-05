@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43375030-8252-431a-beab-41d9608fcb54" name="Changes" comment="Created: findByDepartment implementation">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/dao/impl/SellerDaoJDBC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/dao/impl/SellerDaoJDBC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,6 +109,7 @@
       <workItem from="1682810364704" duration="2003000" />
       <workItem from="1683138002920" duration="1418000" />
       <workItem from="1683207296033" duration="1000" />
+      <workItem from="1683249020401" duration="294000" />
     </task>
     <task id="LOCAL-00001" summary="Created: findByDepartment implementation">
       <created>1682811722435</created>
